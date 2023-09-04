@@ -6,7 +6,7 @@ Prerequisites to start the application.
 * Postgres SQL
 * node
 
-Follow these steps to start the Rails Application.
+Follow these steps to run the Rails Application.
 
 * Clone the Repo
 * Switch to Server folder
