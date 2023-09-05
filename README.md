@@ -1,5 +1,5 @@
 # Influence_mobile
-To display the offer Based on their User Profile.
+To view the offers Based on their User Profile.
 
 Prerequisites to start the application.
 * Ruby 3. x
