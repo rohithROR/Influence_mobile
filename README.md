@@ -1,5 +1,5 @@
 # Influence_mobile
-This application helps view the candidates' offers based on the Profile.
+This application helps view the candidate's offers based on the Profile.
 
 Prerequisites to start the application.
 * Ruby 3. x
