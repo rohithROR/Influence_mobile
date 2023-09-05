@@ -1,8 +1,9 @@
 # Influence_mobile
-To view the offers Based on their User Profile.
+To view the offers Based on the User Profile.
 
 Prerequisites to start the application.
 * Ruby 3. x
+  Rails 7. x
 * Postgres SQL
 * node
 
