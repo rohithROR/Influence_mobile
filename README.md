@@ -1,8 +1,9 @@
 # Influence_mobile
-To view the offers Based on the User Profile.
+This application helps view the candidates' offers based on the Profile.
 
 Prerequisites to start the application.
 * Ruby 3. x
+* Rails 7.0.7.2
 * Postgres SQL
 * node
 
