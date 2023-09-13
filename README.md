@@ -1,4 +1,4 @@
-# Influence_mobile
+
 This application helps view the candidate's offers based on the Profile.
 
 Prerequisites to start the application.
